@@ -6,4 +6,4 @@
 - if neither, you say the number
 
 ### This is to check whether there is any modification part-I
-### Thius is to verify this functionality is working or not?
+### This is to verify this functionality is working or not?
